@@ -37,3 +37,7 @@ default <kbd>PrtScn</kbd> behavior.
 
 Just use Paint or Paint.NET, the most sorely missed Windows program when working
 on macOS. :-(
+
+## To-do
+
+### Test if Windows Win+Shift+S is a thing

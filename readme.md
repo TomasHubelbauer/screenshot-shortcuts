@@ -31,10 +31,12 @@ or click Done to save to Desktop.
 - <kbd>Win+G</kbd>: open Gamebar with access to existing recordings
 - <kbd>Win+Shift+S</kbd>: Snip & Sketch
 
-Or use the Snip & Sketch tool which can be configured to start instead of the
-default <kbd>PrtScn</kbd> behavior.
-
 ### Cropping
 
-Use the Snip&Sketch for rectangular, free-form, window or full-screen snip. Or
+Use the Snip & Sketch for rectangular, free-form, window or full-screen snip. Or
 use Microsoft Paint / [Paint.NET](https://www.getpaint.net).
+
+### Notes
+
+The Snip & Sketch tool can be configured to start instead of the default
+<kbd>PrtScn</kbd> behavior.

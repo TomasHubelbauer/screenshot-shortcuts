@@ -36,5 +36,5 @@ default <kbd>PrtScn</kbd> behavior.
 
 ### Cropping
 
-Just use Paint or Paint.NET, the most sorely missed Windows program when working
-on macOS. :-(
+Use the Snip&Sketch for rectangular, free-form, window or full-screen snip. Or
+use Microsoft Paint / [Paint.NET](https://www.getpaint.net).

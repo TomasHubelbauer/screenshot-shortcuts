@@ -29,6 +29,7 @@ or click Done to save to Desktop.
 - <kbd>Alt+PrtScn</kbd>: window screenshot (copied to clipboard)
 - <kbd>Win+Alt+R</kbd>: record window
 - <kbd>Win+G</kbd>: open Gamebar with access to existing recordings
+- <kbd>Win+Shift+S</kbd>: Snip & Sketch
 
 Or use the Snip & Sketch tool which can be configured to start instead of the
 default <kbd>PrtScn</kbd> behavior.
@@ -37,7 +38,3 @@ default <kbd>PrtScn</kbd> behavior.
 
 Just use Paint or Paint.NET, the most sorely missed Windows program when working
 on macOS. :-(
-
-## To-do
-
-### Test if Windows Win+Shift+S is a thing

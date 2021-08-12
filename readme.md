@@ -31,6 +31,26 @@ or click Done to save to Desktop.
 - <kbd>Win+G</kbd>: open Gamebar with access to existing recordings
 - <kbd>Win+Shift+S</kbd>: Snip & Sketch
 
+### PowerPoint
+
+PowerPoint has a screen recording functionality built-in. You always have to
+start up PowerPoint and create a new blank presentation for it to work. Go to
+the Insert ribbon tab and select Screen Recording. From there either use the UI
+or these keyboard shortcuts:
+
+- <kbd>Win+Shift+A</kbd>: select screen area recording
+- <kbd>Win+Shift+F</kbd>: select full screen recording
+- <kbd>Win+Shift+U</kbd>: do not record sound
+- <kbd>Win+Shift+O</kbd>: do not record cursor
+- <kbd>Win+Shift+R</kbd>: start/pause/resume recording
+- <kbd>Win+Shift+Q</kbd>: stop recording
+
+The recording UI will hide unless pinned, to make it show, move the mouse cursor
+to 0, 0.
+
+After finishing the recording, it will get inserted into the current slide. To
+save the media file alone, right-click on it and select Save Media As.
+
 ### Cropping
 
 Use the Snip & Sketch for rectangular, free-form, window or full-screen snip. Or

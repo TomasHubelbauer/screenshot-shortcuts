@@ -22,6 +22,22 @@ after making the screenshot, click the Crop button and move the corners of the
 white rectangle to adjust the crop. Click <kbd>Cmd+C</kbd> to copy to clipboard
 or click Done to save to Desktop.
 
+## iOS
+
+A screenshot is made using volume up and power buttons pressed at the same time.
+A screen recording is made by adding a screen recording button to the Control
+Center and then sliding the Control Center down and initiating the recording. To
+stop the recording, slide Control Center down again and stop the recording. Or
+use the above macOS iPhone screen recording tip.
+
+## watchOS
+
+A screenshot is made using the power button and the digital crown pressed at the
+same time. It is saved to the iPhone Camera Roll. This needs to be enabled in
+the Watch app on the phone first.
+
+A screen recording cannot be made on watchOS AFAIK.
+
 ## Windows
 
 - <kbd>PrtScn</kbd>: full screen screenshot (copied to clipboard)
